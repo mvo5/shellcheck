@@ -1,5 +1,6 @@
 name: shellcheck
 summary: A shell script static analysis tool
+contact: https://www.shellcheck.net/
 description: |
   ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh
   shell scripts.
